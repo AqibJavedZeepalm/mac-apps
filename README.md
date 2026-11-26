@@ -5,7 +5,7 @@ Downloads for my Mac menu bar apps. Each release here is the same notarized zip 
 | App | What it does | Price |
 | --- | --- | --- |
 | [Notchet](https://aqibjaved.dev/apps/notchet/) | Clipboard history that drops out of the MacBook notch. Pick a card and it pastes where you were. Encrypted on your Mac, with a lock of its own and iCloud sync. | 7-day free trial, then $9.99 once for 2 Macs |
-| [DisplayShift](https://aqibjaved.dev/apps/displayshift/) | Plug in a monitor and choose which windows move over, full screen apps too. Tiles up to four apps. | 7-day free trial, then $6.99 once for 1 Mac (2, 3 and 5 Mac licenses too), or $1.49 a month or $4.99 a year |
+| [DisplayShift](https://aqibjaved.dev/apps/displayshift/) | Plug in a monitor and choose which windows move over, full screen apps too. Tiles up to six apps. | 7-day free trial, then $6.99 once for 1 Mac (2, 3 and 5 Mac licenses too), or $1.49 a month or $4.99 a year |
 | [Scrollwise](https://aqibjaved.dev/apps/scrollwise/) | Natural scrolling on the trackpad, classic on any mouse, Magic Mouse included. | Free. Pro: 7-day free trial, then $2.99 once for 2 Macs |
 
 Get them from the app pages on [aqibjaved.dev/apps](https://aqibjaved.dev/apps/), which also have the install steps and what changed in each version. The apps update themselves once installed.
